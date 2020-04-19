@@ -1,9 +1,15 @@
 h1 {
   color: #66BFBF
 }
+
 h2 {
   color: #66BFBF
 }
+
 hr {
   border-color: red;
+}
+
+body {
+background-color: #fdd998;
 }
