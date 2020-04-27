@@ -12,14 +12,14 @@ hr {
   position: absolute;
   right: 850px;
   text-align: center;
-  background-color: #40BAD5;
+  background-color: #40BAD5
 }
 
 .blue {
   position: absolute;
   right: 850px;
   text-align: center;
-  background-color: #CEE397;
+  background-color: #CEE397
 }
 
 .orange {
@@ -35,8 +35,8 @@ hr {
   right: 750px;
   height: 55px;
   width: 500px;
-  background-color: #B7EFCD;
-  text-align: center;
+    text-align: center;
+  background-color: #B7EFCD
 }
 
 .secrecy {
@@ -60,8 +60,8 @@ hr {
   position: absolute;
   right: 850px;
   text-align: center;
-  background-color: #F4EEFF;
-  width: 200px;
+    width: 200px;
+  background-color: #F4EEFF
 }
 
 .ultimate {
@@ -70,8 +70,8 @@ hr {
   right: 750px;
   height: 55px;
   width: 500px;
-  background-color: #B7EFCD;
-  text-align: center;
+    text-align: center;
+  background-color: #B7EFCD
 }
 
 .notebook {
