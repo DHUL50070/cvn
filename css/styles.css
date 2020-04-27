@@ -1,15 +1,84 @@
 h1 {
   color: #66BFBF
 }
-
 h2 {
   color: #66BFBF
 }
-
 hr {
   border-color: red;
 }
 
-body {
-background-color: #fdd998;
+.red {
+  position: absolute;
+  right: 850px;
+  text-align: center;
+  background-color: #40bad5;
+}
+
+.blue {
+  position: absolute;
+  right: 850px;
+  text-align: center;
+  background-color: #cee397;
+}
+
+.orange {
+  position: absolute;
+  right: 850px;
+  text-align: center;
+  background-color: #ffeb99
+}
+
+.sacred {
+  position: fixed;
+  top: 0;
+  right: 750px;
+  height: 55px;
+  width: 500px;
+  background-color: #b7efcd;
+  text-align: center;
+}
+
+.secrecy {
+  position: fixed;
+  top: 0;
+  right: 750px;
+  height: 55px;
+  width: 500px;
+  background-color: #b7efcd;
+  text-align: center;
+}
+
+.purple {
+  position: absolute;
+  right: 850px;
+  text-align: center;
+  background-color: #f4eeff
+}
+
+.pink {
+  position: absolute;
+  right: 850px;
+  text-align: center;
+  background-color: #f4eeff;
+  width: 200px;
+}
+
+.ultimate {
+  position: fixed;
+  top: 0;
+  right: 750px;
+  height: 55px;
+  width: 500px;
+  background-color: #b7efcd;
+  text-align: center;
+}
+
+.notebook {
+position: absolute;
+bottom: 85px;
+right: 720px;
+height: 55px;
+width: 500px;
+text-align:center;
 }
