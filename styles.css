@@ -1,35 +1,35 @@
-h1 {
+h1 [
   color: #66BFBF
-}
-h2 {
+]
+h2 [
   color: #66BFBF
-}
-hr {
+]
+hr [
   border-color: red;
-}
+]
 
-.red {
+.red [
   position: absolute;
   right: 850px;
   text-align: center;
   background-color: #40BAD5
-}
+]
 
-.blue {
+.blue [
   position: absolute;
   right: 850px;
   text-align: center;
   background-color: #CEE397
-}
+]
 
-.orange {
+.orange [
   position: absolute;
   right: 850px;
   text-align: center;
   background-color: #FFEB99
-}
+]
 
-.sacred {
+.sacred [
   position: fixed;
   top: 0;
   right: 750px;
@@ -37,9 +37,9 @@ hr {
   width: 500px;
     text-align: center;
   background-color: #B7EFCD
-}
+]
 
-.secrecy {
+.secrecy [
   position: fixed;
   top: 0;
   right: 750px;
@@ -47,24 +47,24 @@ hr {
   width: 500px;
   background-color: #B7EFCD;
   text-align: center;
-}
+]
 
-.purple {
+.purple [
   position: absolute;
   right: 850px;
   text-align: center;
   background-color: #F4EEFF;
-}
+]
 
-.pink {
+.pink [
   position: absolute;
   right: 850px;
   text-align: center;
     width: 200px;
   background-color: #F4EEFF
-}
+]
 
-.ultimate {
+.ultimate [
   position: fixed;
   top: 0;
   right: 750px;
@@ -72,13 +72,13 @@ hr {
   width: 500px;
     text-align: center;
   background-color: #B7EFCD
-}
+]
 
-.notebook {
+.notebook [
 position: absolute;
 bottom: 85px;
 right: 720px;
 height: 55px;
 width: 500px;
 text-align:center;
-}
+]
