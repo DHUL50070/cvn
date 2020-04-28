@@ -84,7 +84,7 @@ text-align:center;
 }
 
 .strawberry {
-   position: fixed;
+   position: absolute;
   top: 0;
   right: 750px;
   height: 55px;
