@@ -1,5 +1,6 @@
 h1 {
-  color: #66BFBF
+  color: #66BFBF;
+  font-family: 'Aclonica', sans-serif;
 }
 h2 {
   color: #66BFBF
@@ -8,8 +9,8 @@ hr {
   border-color: red;
 }
 
-body {
-  background-color: #fdd988;
+.jones {
+  text-align: center;
 }
 
 .red {
@@ -186,4 +187,44 @@ text-align:center;
   height: 55px;
   width: 500px;
 text-align: center;
+}
+
+.toi {
+  height: 110px;
+  width: 110px;
+}
+
+.sting {
+  height: 425px;
+  width: 425px;
+}
+
+.london {
+  color: red;
+}
+
+.paris {
+  border-color: black;
+}
+
+.corn {
+  bottom: 15px;
+}
+
+.notebook {
+    position: fixed;
+    bottom: 60px;
+    right: 250px;
+    height: 55px;
+    width: 500px;
+    text-align: center;
+}
+
+.tomato {
+    position: absolute;
+    bottom: 60px;
+    left: 250px;
+    height: 55px;
+    width: 500px;
+    text-align: center;
 }
